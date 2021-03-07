@@ -1,4 +1,4 @@
-# data-structures-c
+# pretty-useful-c
 A set of libraries that allow you to manipulate files, linked lists, sorting algorithms and much more. 
 Made together with @Antonio-Rocchia, these libraries were originally made in order to pass the "Fondamenti
 di informatica T-1" course exam in the computer engineering degree at UNIBO, but can be pretty useful for
